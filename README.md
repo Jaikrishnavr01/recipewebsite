@@ -17,7 +17,7 @@ If you are developing a production application, we recommend using TypeScript an
 -> npm install
 -> npm run dev
 
-# live preview link --> [preview-link]( https://recipe-website01.netlify.app )
+# Live preview --> [Link]( https://recipe-website01.netlify.app )
 
 # work sample images
    * ![sample work 1](./src/assets/sample1.png)
